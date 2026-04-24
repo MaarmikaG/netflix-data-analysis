@@ -31,7 +31,7 @@ This analysis highlights Netflix's rapid expansion and strategic focus on divers
 
 ## 🔹 Project Structure
 
- data/                # Dataset files
+ Netflix Data_ Cleaning, Analysis and Visualization_ _ ML _ FA _ DA projects.pdf/               # Dataset file
  notebooks/           # Jupyter Notebook
  README.md            # Project documentation
 
