@@ -33,5 +33,6 @@ This analysis highlights Netflix's rapid expansion and strategic focus on divers
 
  Netflix Data_ Cleaning, Analysis and Visualization_ _ ML _ FA _ DA projects.pdf/               # Dataset file
  Netflix_proj.ipynb/           # Jupyter Notebook
+ netflix_report.pptx/          # Powerpoint report 
  README.md            # Project documentation
 
